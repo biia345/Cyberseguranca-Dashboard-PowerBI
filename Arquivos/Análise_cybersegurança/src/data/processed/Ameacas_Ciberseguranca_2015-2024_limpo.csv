@@ -1,0 +1,461 @@
+país,ano,tipo_ataque,setor_alvo,perda_financeira_usd,usuarios_afetados,origem_ataque,tipo_vulnerabilidade,mecanismo_defesa,tempo_resolucao_horas
+china,2019,fraude por e-mail,educação,80.53,773169,grupo hacker,software desatualizado,rede privada virtual,63
+china,2019,sequestro de dados,varejo,62.19,295961,grupo hacker,software desatualizado,firewall,71
+índia,2017,interceptação,tecnologia da informação,38.65,605895,grupo hacker,senhas fracas,rede privada virtual,20
+reino unido,2024,sequestro de dados,telecomunicações,41.44,659320,estado-nação,engenharia social,detecção baseada em IA,7
+alemanha,2018,interceptação,tecnologia da informação,74.41,810682,agente interno,engenharia social,rede privada virtual,68
+alemanha,2016,ataque de negação de serviço,telecomunicações,33.26,431262,agente interno,software desatualizado,rede privada virtual,34
+reino unido,2023,ataque de negação de serviço,saúde,69.14,685927,grupo hacker,software desatualizado,firewall,58
+china,2016,injeção de SQL,saúde,38.81,920768,grupo hacker,software desatualizado,detecção baseada em IA,27
+frança,2023,ataque de negação de serviço,saúde,58.37,599797,estado-nação,software desatualizado,detecção baseada em IA,35
+rússia,2017,interceptação,saúde,13.04,850158,grupo hacker,software desatualizado,detecção baseada em IA,67
+índia,2016,ataque de negação de serviço,tecnologia da informação,36.45,261808,estado-nação,engenharia social,detecção baseada em IA,6
+frança,2023,sequestro de dados,educação,17.72,261661,agente interno,engenharia social,rede privada virtual,11
+brasil,2023,ataque de negação de serviço,telecomunicações,51.84,699007,grupo hacker,engenharia social,rede privada virtual,30
+reino unido,2022,injeção de SQL,educação,66.24,678876,grupo hacker,engenharia social,detecção baseada em IA,11
+brasil,2023,fraude por e-mail,saúde,14.51,113777,estado-nação,senhas fracas,rede privada virtual,27
+brasil,2016,ataque de negação de serviço,educação,96.98,140812,estado-nação,software desatualizado,rede privada virtual,71
+índia,2016,ataque de negação de serviço,educação,21.01,602692,grupo hacker,software desatualizado,rede privada virtual,29
+reino unido,2015,fraude por e-mail,tecnologia da informação,85.58,17229,grupo hacker,senhas fracas,detecção baseada em IA,30
+índia,2018,ataque de negação de serviço,saúde,76.43,304162,grupo hacker,software desatualizado,firewall,56
+índia,2024,ataque de negação de serviço,educação,73.37,475719,estado-nação,engenharia social,firewall,52
+china,2021,fraude por e-mail,saúde,55.04,871600,agente interno,software desatualizado,firewall,29
+alemanha,2016,interceptação,saúde,90.2,779494,estado-nação,engenharia social,detecção baseada em IA,54
+brasil,2022,ataque de negação de serviço,varejo,15.16,157034,estado-nação,engenharia social,detecção baseada em IA,69
+austrália,2017,injeção de SQL,saúde,68.91,634048,grupo hacker,software desatualizado,firewall,66
+alemanha,2024,fraude por e-mail,saúde,84.53,189430,estado-nação,engenharia social,firewall,1
+frança,2021,ataque de negação de serviço,saúde,90.63,603327,estado-nação,software desatualizado,detecção baseada em IA,15
+china,2024,sequestro de dados,telecomunicações,7.32,179156,estado-nação,engenharia social,detecção baseada em IA,34
+china,2023,interceptação,saúde,48.71,421191,estado-nação,software desatualizado,firewall,62
+alemanha,2022,ataque de negação de serviço,tecnologia da informação,78.18,987652,grupo hacker,engenharia social,rede privada virtual,72
+brasil,2023,injeção de SQL,varejo,56.76,774426,grupo hacker,engenharia social,detecção baseada em IA,21
+índia,2019,fraude por e-mail,telecomunicações,75.23,141627,agente interno,software desatualizado,detecção baseada em IA,64
+austrália,2024,sequestro de dados,educação,85.86,461012,agente interno,software desatualizado,detecção baseada em IA,38
+rússia,2021,injeção de SQL,telecomunicações,80.23,599291,estado-nação,engenharia social,firewall,55
+rússia,2016,injeção de SQL,telecomunicações,95.93,595950,estado-nação,engenharia social,detecção baseada em IA,11
+índia,2022,ataque de negação de serviço,saúde,12.01,254980,agente interno,software desatualizado,detecção baseada em IA,58
+índia,2021,interceptação,telecomunicações,71.64,416077,agente interno,engenharia social,rede privada virtual,39
+alemanha,2022,ataque de negação de serviço,telecomunicações,20.55,239313,estado-nação,engenharia social,detecção baseada em IA,6
+reino unido,2017,fraude por e-mail,telecomunicações,27.08,416833,agente interno,engenharia social,rede privada virtual,9
+austrália,2022,ataque de negação de serviço,telecomunicações,86.77,390083,estado-nação,engenharia social,rede privada virtual,72
+rússia,2021,injeção de SQL,telecomunicações,68.07,538602,agente interno,software desatualizado,rede privada virtual,19
+austrália,2024,fraude por e-mail,varejo,73.43,897569,grupo hacker,engenharia social,detecção baseada em IA,66
+brasil,2016,ataque de negação de serviço,tecnologia da informação,17.12,988369,grupo hacker,senhas fracas,detecção baseada em IA,26
+alemanha,2021,sequestro de dados,tecnologia da informação,5.54,254933,estado-nação,engenharia social,detecção baseada em IA,41
+brasil,2015,sequestro de dados,saúde,61.91,961557,agente interno,software desatualizado,firewall,64
+frança,2015,injeção de SQL,tecnologia da informação,87.78,6456,grupo hacker,engenharia social,firewall,69
+índia,2016,fraude por e-mail,varejo,59.36,967614,estado-nação,software desatualizado,detecção baseada em IA,71
+china,2019,sequestro de dados,tecnologia da informação,68.02,175038,grupo hacker,senhas fracas,rede privada virtual,67
+índia,2017,fraude por e-mail,varejo,36.78,620056,estado-nação,senhas fracas,firewall,14
+rússia,2023,injeção de SQL,telecomunicações,3.66,702942,estado-nação,software desatualizado,detecção baseada em IA,34
+brasil,2016,interceptação,varejo,72.78,11339,grupo hacker,engenharia social,detecção baseada em IA,34
+rússia,2022,interceptação,saúde,27.82,182378,agente interno,engenharia social,detecção baseada em IA,10
+alemanha,2024,sequestro de dados,educação,11.81,418893,agente interno,engenharia social,firewall,31
+índia,2019,ataque de negação de serviço,telecomunicações,36.86,116906,agente interno,engenharia social,rede privada virtual,7
+rússia,2022,fraude por e-mail,telecomunicações,73.26,687383,estado-nação,senhas fracas,rede privada virtual,8
+índia,2023,sequestro de dados,telecomunicações,3.51,661681,grupo hacker,senhas fracas,detecção baseada em IA,14
+índia,2021,interceptação,varejo,40.94,698921,agente interno,senhas fracas,firewall,72
+frança,2017,ataque de negação de serviço,tecnologia da informação,20.44,618269,estado-nação,senhas fracas,rede privada virtual,48
+brasil,2018,ataque de negação de serviço,telecomunicações,82.05,322527,estado-nação,senhas fracas,firewall,46
+reino unido,2017,ataque de negação de serviço,saúde,54.83,966668,grupo hacker,senhas fracas,detecção baseada em IA,15
+frança,2020,injeção de SQL,educação,94.63,481180,grupo hacker,senhas fracas,detecção baseada em IA,10
+reino unido,2018,interceptação,saúde,45.11,545613,agente interno,software desatualizado,rede privada virtual,25
+reino unido,2024,interceptação,varejo,7.16,368618,estado-nação,engenharia social,firewall,22
+frança,2022,interceptação,tecnologia da informação,78.23,310175,grupo hacker,software desatualizado,detecção baseada em IA,53
+rússia,2015,injeção de SQL,educação,5.26,559195,agente interno,senhas fracas,rede privada virtual,52
+alemanha,2017,interceptação,varejo,73.98,609952,grupo hacker,software desatualizado,rede privada virtual,7
+alemanha,2022,interceptação,tecnologia da informação,65.86,978868,agente interno,senhas fracas,detecção baseada em IA,39
+brasil,2017,fraude por e-mail,saúde,68.99,526227,grupo hacker,senhas fracas,rede privada virtual,62
+alemanha,2019,fraude por e-mail,saúde,99.97,950451,grupo hacker,senhas fracas,detecção baseada em IA,29
+índia,2023,injeção de SQL,varejo,2.85,30883,estado-nação,senhas fracas,detecção baseada em IA,51
+índia,2023,sequestro de dados,educação,41.15,352194,estado-nação,software desatualizado,firewall,10
+china,2015,sequestro de dados,tecnologia da informação,57.27,762001,estado-nação,engenharia social,rede privada virtual,67
+alemanha,2024,ataque de negação de serviço,varejo,38.65,197609,estado-nação,engenharia social,rede privada virtual,15
+austrália,2020,ataque de negação de serviço,saúde,91.45,471113,grupo hacker,software desatualizado,detecção baseada em IA,71
+alemanha,2015,interceptação,varejo,63.65,311253,estado-nação,senhas fracas,detecção baseada em IA,36
+brasil,2023,injeção de SQL,tecnologia da informação,97.37,796195,estado-nação,engenharia social,firewall,20
+alemanha,2020,fraude por e-mail,tecnologia da informação,33.51,649406,agente interno,engenharia social,firewall,27
+austrália,2023,sequestro de dados,varejo,41.54,396865,agente interno,engenharia social,detecção baseada em IA,42
+rússia,2024,fraude por e-mail,educação,25.7,953987,agente interno,engenharia social,detecção baseada em IA,65
+rússia,2021,ataque de negação de serviço,saúde,11.38,334528,agente interno,senhas fracas,rede privada virtual,5
+reino unido,2022,sequestro de dados,varejo,10.44,19404,estado-nação,software desatualizado,firewall,32
+rússia,2019,sequestro de dados,saúde,21.95,217438,grupo hacker,engenharia social,firewall,14
+brasil,2024,interceptação,telecomunicações,27.13,943178,estado-nação,senhas fracas,rede privada virtual,63
+china,2022,fraude por e-mail,varejo,31.35,131361,agente interno,senhas fracas,firewall,39
+reino unido,2021,interceptação,educação,40.98,414340,agente interno,software desatualizado,detecção baseada em IA,10
+austrália,2024,interceptação,telecomunicações,31.68,376612,estado-nação,software desatualizado,rede privada virtual,27
+índia,2024,ataque de negação de serviço,varejo,35.47,342575,agente interno,engenharia social,firewall,49
+china,2021,sequestro de dados,saúde,32.72,994243,grupo hacker,engenharia social,firewall,54
+austrália,2024,sequestro de dados,educação,44.95,500747,agente interno,software desatualizado,detecção baseada em IA,58
+austrália,2015,fraude por e-mail,saúde,76.4,108767,estado-nação,software desatualizado,rede privada virtual,48
+reino unido,2017,interceptação,educação,30.44,996762,grupo hacker,engenharia social,detecção baseada em IA,27
+austrália,2019,ataque de negação de serviço,saúde,84.89,163975,estado-nação,software desatualizado,firewall,22
+brasil,2017,ataque de negação de serviço,tecnologia da informação,5.88,231114,agente interno,senhas fracas,detecção baseada em IA,37
+frança,2018,fraude por e-mail,varejo,99.78,860459,grupo hacker,engenharia social,detecção baseada em IA,11
+frança,2016,interceptação,varejo,14.86,63760,grupo hacker,senhas fracas,rede privada virtual,8
+rússia,2019,interceptação,varejo,99.53,515797,estado-nação,engenharia social,firewall,46
+rússia,2017,sequestro de dados,telecomunicações,65.18,329972,estado-nação,software desatualizado,firewall,48
+china,2018,fraude por e-mail,saúde,20.22,363934,agente interno,senhas fracas,firewall,24
+reino unido,2017,interceptação,telecomunicações,43.82,213979,grupo hacker,software desatualizado,firewall,10
+reino unido,2022,sequestro de dados,educação,4.29,383246,estado-nação,software desatualizado,rede privada virtual,45
+reino unido,2022,fraude por e-mail,educação,36.15,375734,estado-nação,senhas fracas,detecção baseada em IA,31
+reino unido,2023,fraude por e-mail,saúde,23.66,889641,grupo hacker,engenharia social,detecção baseada em IA,50
+alemanha,2023,sequestro de dados,saúde,84.92,152814,estado-nação,engenharia social,detecção baseada em IA,33
+brasil,2018,ataque de negação de serviço,telecomunicações,69.83,587034,grupo hacker,senhas fracas,detecção baseada em IA,35
+china,2016,ataque de negação de serviço,tecnologia da informação,71.75,816710,grupo hacker,senhas fracas,rede privada virtual,60
+reino unido,2016,ataque de negação de serviço,telecomunicações,48.47,937466,grupo hacker,engenharia social,detecção baseada em IA,28
+reino unido,2019,ataque de negação de serviço,telecomunicações,95.75,168951,agente interno,engenharia social,rede privada virtual,13
+rússia,2021,sequestro de dados,telecomunicações,11.04,904330,estado-nação,senhas fracas,rede privada virtual,49
+alemanha,2020,interceptação,saúde,28.81,691190,estado-nação,software desatualizado,firewall,27
+frança,2021,interceptação,saúde,53.77,302180,agente interno,senhas fracas,detecção baseada em IA,11
+brasil,2015,ataque de negação de serviço,varejo,67.52,224815,estado-nação,engenharia social,firewall,32
+índia,2022,sequestro de dados,varejo,74.05,205336,grupo hacker,engenharia social,detecção baseada em IA,2
+frança,2019,interceptação,telecomunicações,75.99,561713,agente interno,software desatualizado,firewall,31
+austrália,2016,fraude por e-mail,saúde,53.81,279874,grupo hacker,software desatualizado,detecção baseada em IA,66
+índia,2023,fraude por e-mail,varejo,38.89,836604,grupo hacker,software desatualizado,detecção baseada em IA,44
+rússia,2018,interceptação,telecomunicações,30.5,401208,grupo hacker,software desatualizado,rede privada virtual,10
+austrália,2024,injeção de SQL,varejo,66.49,709125,grupo hacker,senhas fracas,detecção baseada em IA,37
+china,2016,ataque de negação de serviço,tecnologia da informação,67.28,413150,grupo hacker,engenharia social,firewall,27
+frança,2023,interceptação,varejo,9.43,565002,grupo hacker,software desatualizado,firewall,72
+rússia,2021,ataque de negação de serviço,varejo,37.47,476758,grupo hacker,software desatualizado,detecção baseada em IA,19
+china,2020,injeção de SQL,tecnologia da informação,89.38,923489,estado-nação,software desatualizado,firewall,66
+rússia,2022,sequestro de dados,tecnologia da informação,41.08,529025,agente interno,software desatualizado,detecção baseada em IA,42
+austrália,2015,sequestro de dados,telecomunicações,46.39,605536,estado-nação,software desatualizado,rede privada virtual,61
+índia,2015,sequestro de dados,telecomunicações,24.7,825941,grupo hacker,software desatualizado,rede privada virtual,54
+frança,2019,fraude por e-mail,varejo,25.75,998507,agente interno,senhas fracas,detecção baseada em IA,15
+índia,2017,ataque de negação de serviço,varejo,82.17,593329,grupo hacker,software desatualizado,detecção baseada em IA,62
+austrália,2017,fraude por e-mail,varejo,14.88,69641,grupo hacker,software desatualizado,firewall,54
+alemanha,2022,ataque de negação de serviço,tecnologia da informação,73.98,953770,agente interno,senhas fracas,firewall,54
+reino unido,2022,ataque de negação de serviço,educação,21.01,452432,estado-nação,software desatualizado,firewall,8
+brasil,2023,ataque de negação de serviço,tecnologia da informação,45.97,312555,estado-nação,engenharia social,detecção baseada em IA,67
+rússia,2018,injeção de SQL,educação,1.25,351063,estado-nação,senhas fracas,firewall,56
+rússia,2024,ataque de negação de serviço,educação,19.5,325634,agente interno,senhas fracas,firewall,5
+china,2018,ataque de negação de serviço,tecnologia da informação,14.04,803086,estado-nação,engenharia social,rede privada virtual,23
+índia,2015,ataque de negação de serviço,saúde,10.94,600279,agente interno,software desatualizado,detecção baseada em IA,16
+china,2016,ataque de negação de serviço,tecnologia da informação,18.96,122866,agente interno,software desatualizado,rede privada virtual,46
+rússia,2015,ataque de negação de serviço,tecnologia da informação,66.09,467190,estado-nação,engenharia social,detecção baseada em IA,25
+austrália,2022,injeção de SQL,saúde,60.71,8498,estado-nação,senhas fracas,rede privada virtual,17
+frança,2024,fraude por e-mail,educação,52.03,168684,estado-nação,software desatualizado,rede privada virtual,27
+brasil,2024,fraude por e-mail,varejo,88.47,842945,grupo hacker,senhas fracas,firewall,67
+alemanha,2023,injeção de SQL,saúde,14.12,403325,grupo hacker,senhas fracas,detecção baseada em IA,35
+austrália,2017,interceptação,tecnologia da informação,30.51,428352,grupo hacker,software desatualizado,firewall,41
+brasil,2020,fraude por e-mail,telecomunicações,92.63,725707,grupo hacker,senhas fracas,detecção baseada em IA,9
+austrália,2017,interceptação,telecomunicações,35.27,765929,estado-nação,senhas fracas,firewall,16
+brasil,2024,injeção de SQL,educação,14.69,783795,agente interno,senhas fracas,detecção baseada em IA,43
+austrália,2020,ataque de negação de serviço,telecomunicações,20.59,457184,agente interno,engenharia social,rede privada virtual,11
+austrália,2015,ataque de negação de serviço,telecomunicações,14.55,470471,estado-nação,software desatualizado,rede privada virtual,53
+austrália,2023,ataque de negação de serviço,tecnologia da informação,55.94,890234,estado-nação,software desatualizado,rede privada virtual,53
+china,2021,injeção de SQL,tecnologia da informação,39.44,155768,estado-nação,engenharia social,detecção baseada em IA,19
+austrália,2024,fraude por e-mail,tecnologia da informação,92.48,215376,estado-nação,engenharia social,firewall,18
+frança,2016,ataque de negação de serviço,telecomunicações,20.09,689397,agente interno,engenharia social,detecção baseada em IA,68
+frança,2017,injeção de SQL,saúde,18.75,436009,estado-nação,engenharia social,detecção baseada em IA,44
+reino unido,2020,injeção de SQL,varejo,56.3,142291,estado-nação,senhas fracas,rede privada virtual,29
+frança,2021,interceptação,telecomunicações,90.99,483484,grupo hacker,software desatualizado,rede privada virtual,2
+rússia,2015,sequestro de dados,tecnologia da informação,41.79,7290,agente interno,senhas fracas,detecção baseada em IA,32
+alemanha,2022,sequestro de dados,varejo,19.47,496271,grupo hacker,software desatualizado,detecção baseada em IA,20
+frança,2016,interceptação,tecnologia da informação,41.79,453408,estado-nação,engenharia social,rede privada virtual,8
+china,2017,fraude por e-mail,saúde,92.64,911233,grupo hacker,senhas fracas,detecção baseada em IA,18
+china,2022,sequestro de dados,educação,70.44,164734,estado-nação,software desatualizado,firewall,7
+austrália,2019,sequestro de dados,educação,43.53,729109,agente interno,senhas fracas,rede privada virtual,22
+austrália,2015,injeção de SQL,varejo,55.78,852650,estado-nação,engenharia social,detecção baseada em IA,50
+china,2022,fraude por e-mail,telecomunicações,72.06,459296,estado-nação,senhas fracas,detecção baseada em IA,13
+índia,2019,sequestro de dados,telecomunicações,90.48,46972,estado-nação,engenharia social,rede privada virtual,23
+china,2021,injeção de SQL,saúde,23.15,730762,agente interno,engenharia social,rede privada virtual,19
+reino unido,2024,injeção de SQL,varejo,48.33,422592,estado-nação,software desatualizado,rede privada virtual,37
+rússia,2023,ataque de negação de serviço,tecnologia da informação,86.81,717258,agente interno,software desatualizado,firewall,16
+brasil,2018,interceptação,varejo,76.39,984,agente interno,software desatualizado,firewall,56
+china,2019,interceptação,tecnologia da informação,79.33,842637,estado-nação,software desatualizado,detecção baseada em IA,55
+austrália,2018,fraude por e-mail,educação,24.25,665381,agente interno,software desatualizado,detecção baseada em IA,61
+rússia,2019,sequestro de dados,tecnologia da informação,60.24,354784,grupo hacker,engenharia social,detecção baseada em IA,65
+frança,2017,sequestro de dados,tecnologia da informação,93.15,372975,grupo hacker,senhas fracas,firewall,64
+frança,2020,sequestro de dados,telecomunicações,10.52,253094,grupo hacker,software desatualizado,rede privada virtual,19
+alemanha,2020,injeção de SQL,tecnologia da informação,54.59,248356,estado-nação,senhas fracas,detecção baseada em IA,25
+reino unido,2022,injeção de SQL,tecnologia da informação,61.97,627852,estado-nação,software desatualizado,rede privada virtual,23
+brasil,2021,ataque de negação de serviço,varejo,75.1,740795,grupo hacker,software desatualizado,firewall,12
+índia,2020,sequestro de dados,tecnologia da informação,70.91,403494,grupo hacker,engenharia social,firewall,3
+brasil,2021,injeção de SQL,tecnologia da informação,92.4,654303,grupo hacker,software desatualizado,detecção baseada em IA,15
+austrália,2019,injeção de SQL,telecomunicações,86.79,293647,estado-nação,engenharia social,detecção baseada em IA,37
+reino unido,2023,ataque de negação de serviço,tecnologia da informação,52.75,638329,grupo hacker,engenharia social,firewall,11
+alemanha,2018,ataque de negação de serviço,telecomunicações,15.14,834902,estado-nação,senhas fracas,firewall,63
+rússia,2024,injeção de SQL,educação,99.31,362492,agente interno,senhas fracas,detecção baseada em IA,63
+brasil,2020,sequestro de dados,tecnologia da informação,56.59,679131,grupo hacker,senhas fracas,detecção baseada em IA,55
+rússia,2020,fraude por e-mail,educação,9.52,889970,estado-nação,software desatualizado,rede privada virtual,20
+alemanha,2020,injeção de SQL,varejo,76.04,759384,estado-nação,software desatualizado,detecção baseada em IA,22
+brasil,2022,fraude por e-mail,tecnologia da informação,92.58,176386,grupo hacker,software desatualizado,rede privada virtual,63
+frança,2016,sequestro de dados,educação,25.55,883536,grupo hacker,software desatualizado,detecção baseada em IA,66
+índia,2018,fraude por e-mail,tecnologia da informação,70.85,677164,estado-nação,senhas fracas,firewall,7
+rússia,2021,interceptação,varejo,39.73,80069,agente interno,software desatualizado,rede privada virtual,8
+frança,2019,injeção de SQL,telecomunicações,16.51,945154,estado-nação,engenharia social,detecção baseada em IA,63
+brasil,2022,ataque de negação de serviço,educação,17.68,366968,estado-nação,engenharia social,rede privada virtual,47
+brasil,2021,interceptação,educação,27.95,625370,agente interno,engenharia social,firewall,24
+índia,2018,sequestro de dados,varejo,62.59,498457,agente interno,senhas fracas,rede privada virtual,12
+austrália,2015,injeção de SQL,varejo,89.77,804658,estado-nação,software desatualizado,detecção baseada em IA,23
+alemanha,2023,interceptação,saúde,75.8,943724,agente interno,software desatualizado,detecção baseada em IA,58
+índia,2020,sequestro de dados,saúde,70.67,564046,agente interno,engenharia social,firewall,39
+rússia,2023,ataque de negação de serviço,tecnologia da informação,22.71,356964,agente interno,software desatualizado,firewall,27
+alemanha,2024,fraude por e-mail,tecnologia da informação,2.85,951767,estado-nação,senhas fracas,detecção baseada em IA,10
+reino unido,2016,injeção de SQL,educação,43.55,712306,grupo hacker,engenharia social,firewall,29
+austrália,2019,fraude por e-mail,educação,46.64,971148,agente interno,software desatualizado,firewall,44
+china,2023,interceptação,educação,49.53,923445,grupo hacker,software desatualizado,rede privada virtual,42
+índia,2021,sequestro de dados,educação,20.26,144065,agente interno,software desatualizado,firewall,62
+índia,2024,ataque de negação de serviço,telecomunicações,85.02,700440,grupo hacker,senhas fracas,rede privada virtual,23
+china,2020,injeção de SQL,telecomunicações,29.31,8884,estado-nação,senhas fracas,firewall,23
+alemanha,2017,sequestro de dados,varejo,91.67,80135,grupo hacker,engenharia social,detecção baseada em IA,35
+índia,2022,injeção de SQL,telecomunicações,95.74,849940,agente interno,senhas fracas,detecção baseada em IA,61
+brasil,2020,fraude por e-mail,saúde,18.79,267178,estado-nação,engenharia social,firewall,56
+reino unido,2023,interceptação,tecnologia da informação,20.35,140061,grupo hacker,senhas fracas,detecção baseada em IA,42
+índia,2023,fraude por e-mail,tecnologia da informação,88.71,337377,grupo hacker,engenharia social,detecção baseada em IA,23
+frança,2022,interceptação,telecomunicações,12.96,255574,agente interno,engenharia social,firewall,69
+rússia,2020,interceptação,tecnologia da informação,21.72,870019,agente interno,engenharia social,detecção baseada em IA,5
+brasil,2020,sequestro de dados,tecnologia da informação,71.74,3432,grupo hacker,software desatualizado,detecção baseada em IA,45
+china,2020,interceptação,varejo,48.24,338732,estado-nação,software desatualizado,firewall,15
+alemanha,2017,sequestro de dados,saúde,32.0,175755,agente interno,senhas fracas,firewall,30
+brasil,2023,ataque de negação de serviço,educação,50.34,897521,estado-nação,engenharia social,detecção baseada em IA,19
+rússia,2016,sequestro de dados,saúde,5.18,719532,agente interno,software desatualizado,rede privada virtual,10
+frança,2019,injeção de SQL,telecomunicações,27.91,399457,estado-nação,senhas fracas,firewall,48
+rússia,2023,sequestro de dados,saúde,15.08,677971,agente interno,engenharia social,rede privada virtual,51
+brasil,2020,injeção de SQL,varejo,96.97,466897,agente interno,software desatualizado,rede privada virtual,58
+frança,2017,interceptação,educação,76.35,517640,grupo hacker,software desatualizado,firewall,4
+índia,2020,fraude por e-mail,saúde,38.19,847958,agente interno,senhas fracas,firewall,32
+brasil,2023,injeção de SQL,saúde,72.9,434510,grupo hacker,engenharia social,firewall,72
+frança,2017,interceptação,educação,49.94,640572,grupo hacker,engenharia social,firewall,51
+china,2023,injeção de SQL,telecomunicações,54.41,215401,grupo hacker,engenharia social,rede privada virtual,50
+rússia,2018,ataque de negação de serviço,educação,13.13,510702,grupo hacker,senhas fracas,firewall,15
+alemanha,2024,interceptação,educação,26.58,313397,grupo hacker,engenharia social,detecção baseada em IA,36
+china,2016,ataque de negação de serviço,telecomunicações,83.02,281862,agente interno,engenharia social,detecção baseada em IA,4
+rússia,2018,ataque de negação de serviço,tecnologia da informação,5.18,826924,agente interno,engenharia social,rede privada virtual,35
+china,2021,sequestro de dados,educação,21.9,304804,grupo hacker,senhas fracas,detecção baseada em IA,53
+brasil,2024,interceptação,educação,34.42,960625,estado-nação,senhas fracas,firewall,48
+china,2021,injeção de SQL,tecnologia da informação,97.06,329378,estado-nação,senhas fracas,rede privada virtual,61
+índia,2018,injeção de SQL,saúde,47.15,98266,agente interno,engenharia social,firewall,18
+china,2018,sequestro de dados,educação,17.44,598614,agente interno,engenharia social,rede privada virtual,59
+frança,2022,fraude por e-mail,varejo,22.72,629571,grupo hacker,software desatualizado,rede privada virtual,41
+reino unido,2020,injeção de SQL,varejo,69.91,354637,agente interno,engenharia social,rede privada virtual,63
+brasil,2020,fraude por e-mail,varejo,50.99,826159,agente interno,senhas fracas,rede privada virtual,3
+reino unido,2020,fraude por e-mail,saúde,39.47,551014,estado-nação,engenharia social,firewall,71
+brasil,2017,injeção de SQL,telecomunicações,4.35,809757,estado-nação,engenharia social,rede privada virtual,61
+reino unido,2015,fraude por e-mail,telecomunicações,21.8,312051,estado-nação,software desatualizado,rede privada virtual,41
+frança,2023,fraude por e-mail,educação,37.38,978508,agente interno,senhas fracas,firewall,42
+austrália,2023,sequestro de dados,tecnologia da informação,17.26,777799,agente interno,senhas fracas,firewall,2
+reino unido,2016,ataque de negação de serviço,telecomunicações,74.5,735,grupo hacker,software desatualizado,firewall,69
+china,2017,sequestro de dados,educação,64.93,159061,agente interno,senhas fracas,firewall,12
+brasil,2019,injeção de SQL,saúde,46.5,748146,agente interno,senhas fracas,detecção baseada em IA,13
+frança,2021,fraude por e-mail,varejo,13.47,537683,agente interno,software desatualizado,rede privada virtual,41
+frança,2020,ataque de negação de serviço,varejo,40.72,743271,estado-nação,engenharia social,firewall,10
+rússia,2022,ataque de negação de serviço,educação,13.89,537149,estado-nação,software desatualizado,rede privada virtual,54
+reino unido,2021,sequestro de dados,telecomunicações,13.26,448367,estado-nação,engenharia social,detecção baseada em IA,7
+china,2015,fraude por e-mail,varejo,14.72,914743,agente interno,engenharia social,detecção baseada em IA,69
+alemanha,2023,injeção de SQL,educação,37.4,662428,agente interno,senhas fracas,detecção baseada em IA,4
+frança,2020,ataque de negação de serviço,telecomunicações,66.27,995231,estado-nação,senhas fracas,firewall,53
+reino unido,2021,fraude por e-mail,tecnologia da informação,89.59,361270,estado-nação,senhas fracas,rede privada virtual,31
+índia,2019,injeção de SQL,varejo,15.39,514826,grupo hacker,software desatualizado,firewall,72
+reino unido,2016,sequestro de dados,saúde,61.66,639896,grupo hacker,engenharia social,rede privada virtual,63
+austrália,2022,injeção de SQL,tecnologia da informação,15.29,42346,grupo hacker,software desatualizado,rede privada virtual,33
+frança,2016,sequestro de dados,saúde,34.29,157547,agente interno,software desatualizado,detecção baseada em IA,29
+índia,2019,injeção de SQL,tecnologia da informação,43.97,764974,estado-nação,senhas fracas,rede privada virtual,18
+índia,2017,interceptação,saúde,91.4,621971,estado-nação,senhas fracas,detecção baseada em IA,49
+brasil,2023,interceptação,varejo,59.18,610786,estado-nação,engenharia social,detecção baseada em IA,31
+reino unido,2018,sequestro de dados,varejo,45.67,277410,grupo hacker,engenharia social,firewall,42
+rússia,2017,interceptação,tecnologia da informação,55.23,12439,estado-nação,senhas fracas,firewall,20
+reino unido,2023,ataque de negação de serviço,educação,54.0,806965,agente interno,engenharia social,detecção baseada em IA,56
+frança,2019,ataque de negação de serviço,educação,66.65,47104,agente interno,engenharia social,rede privada virtual,5
+austrália,2024,injeção de SQL,tecnologia da informação,98.31,694333,agente interno,software desatualizado,rede privada virtual,48
+austrália,2019,ataque de negação de serviço,educação,54.63,22739,agente interno,software desatualizado,firewall,44
+reino unido,2015,interceptação,varejo,7.92,657442,estado-nação,engenharia social,firewall,29
+china,2021,interceptação,telecomunicações,66.61,596341,agente interno,senhas fracas,detecção baseada em IA,9
+brasil,2021,sequestro de dados,saúde,67.25,796351,estado-nação,senhas fracas,detecção baseada em IA,21
+brasil,2018,injeção de SQL,varejo,84.79,99876,agente interno,software desatualizado,firewall,56
+reino unido,2016,injeção de SQL,telecomunicações,98.39,836521,agente interno,senhas fracas,firewall,19
+china,2022,sequestro de dados,educação,49.56,257224,grupo hacker,engenharia social,firewall,46
+austrália,2023,interceptação,telecomunicações,66.91,156195,estado-nação,software desatualizado,firewall,58
+china,2021,ataque de negação de serviço,telecomunicações,10.2,950257,estado-nação,senhas fracas,detecção baseada em IA,61
+índia,2018,fraude por e-mail,varejo,14.46,743107,grupo hacker,engenharia social,rede privada virtual,49
+brasil,2023,sequestro de dados,telecomunicações,71.4,66852,grupo hacker,senhas fracas,rede privada virtual,58
+rússia,2016,injeção de SQL,educação,17.05,888205,estado-nação,senhas fracas,detecção baseada em IA,38
+reino unido,2016,sequestro de dados,varejo,32.16,329026,estado-nação,senhas fracas,rede privada virtual,31
+china,2018,injeção de SQL,saúde,52.01,527443,grupo hacker,software desatualizado,firewall,24
+frança,2021,fraude por e-mail,varejo,45.74,754278,agente interno,engenharia social,firewall,46
+frança,2017,sequestro de dados,educação,19.84,832471,agente interno,engenharia social,firewall,54
+austrália,2016,ataque de negação de serviço,varejo,2.96,990886,agente interno,senhas fracas,detecção baseada em IA,59
+brasil,2024,ataque de negação de serviço,saúde,70.0,484101,grupo hacker,software desatualizado,rede privada virtual,9
+reino unido,2015,sequestro de dados,telecomunicações,22.58,368441,grupo hacker,senhas fracas,detecção baseada em IA,71
+brasil,2024,fraude por e-mail,telecomunicações,81.54,499671,grupo hacker,senhas fracas,rede privada virtual,4
+índia,2020,fraude por e-mail,varejo,12.64,805905,estado-nação,engenharia social,firewall,54
+frança,2023,fraude por e-mail,saúde,72.54,581712,agente interno,engenharia social,rede privada virtual,12
+brasil,2016,injeção de SQL,telecomunicações,13.94,832297,estado-nação,senhas fracas,detecção baseada em IA,69
+índia,2018,fraude por e-mail,tecnologia da informação,13.05,400964,estado-nação,senhas fracas,rede privada virtual,19
+frança,2019,ataque de negação de serviço,telecomunicações,52.94,192293,estado-nação,senhas fracas,rede privada virtual,57
+brasil,2016,fraude por e-mail,educação,9.23,774750,estado-nação,engenharia social,firewall,70
+alemanha,2021,fraude por e-mail,telecomunicações,55.14,463525,estado-nação,software desatualizado,detecção baseada em IA,59
+rússia,2022,sequestro de dados,telecomunicações,16.98,905673,agente interno,senhas fracas,rede privada virtual,54
+alemanha,2017,sequestro de dados,educação,76.96,950276,grupo hacker,software desatualizado,firewall,31
+china,2022,ataque de negação de serviço,educação,18.49,20680,estado-nação,engenharia social,firewall,29
+reino unido,2022,ataque de negação de serviço,varejo,45.73,554585,grupo hacker,engenharia social,rede privada virtual,63
+alemanha,2020,injeção de SQL,saúde,38.89,513096,grupo hacker,senhas fracas,rede privada virtual,57
+brasil,2018,ataque de negação de serviço,saúde,47.47,784099,agente interno,engenharia social,detecção baseada em IA,30
+austrália,2020,ataque de negação de serviço,varejo,31.36,449936,agente interno,senhas fracas,rede privada virtual,52
+rússia,2015,injeção de SQL,tecnologia da informação,47.8,645774,grupo hacker,engenharia social,firewall,7
+alemanha,2016,injeção de SQL,tecnologia da informação,76.36,807745,estado-nação,software desatualizado,detecção baseada em IA,71
+reino unido,2018,sequestro de dados,telecomunicações,99.41,355256,grupo hacker,software desatualizado,firewall,51
+frança,2018,sequestro de dados,educação,34.54,608196,agente interno,senhas fracas,detecção baseada em IA,25
+china,2017,interceptação,varejo,30.38,29840,grupo hacker,senhas fracas,detecção baseada em IA,63
+alemanha,2015,interceptação,tecnologia da informação,54.54,775866,agente interno,senhas fracas,detecção baseada em IA,69
+alemanha,2017,injeção de SQL,varejo,88.18,3200,agente interno,senhas fracas,detecção baseada em IA,43
+índia,2020,ataque de negação de serviço,saúde,16.65,324899,agente interno,software desatualizado,firewall,57
+china,2017,injeção de SQL,varejo,61.83,129677,grupo hacker,software desatualizado,firewall,60
+rússia,2017,sequestro de dados,saúde,16.77,924837,grupo hacker,software desatualizado,firewall,62
+rússia,2019,interceptação,educação,6.79,386691,estado-nação,senhas fracas,detecção baseada em IA,20
+reino unido,2021,ataque de negação de serviço,tecnologia da informação,67.12,581923,grupo hacker,engenharia social,rede privada virtual,63
+rússia,2018,ataque de negação de serviço,tecnologia da informação,37.84,839882,estado-nação,engenharia social,detecção baseada em IA,7
+reino unido,2018,ataque de negação de serviço,varejo,0.5,261266,grupo hacker,senhas fracas,firewall,63
+rússia,2015,ataque de negação de serviço,saúde,20.92,807631,estado-nação,senhas fracas,firewall,56
+frança,2024,fraude por e-mail,varejo,98.95,354954,estado-nação,engenharia social,detecção baseada em IA,14
+alemanha,2022,interceptação,telecomunicações,62.83,828280,grupo hacker,engenharia social,rede privada virtual,62
+reino unido,2022,ataque de negação de serviço,educação,71.55,654253,agente interno,senhas fracas,rede privada virtual,35
+índia,2020,sequestro de dados,tecnologia da informação,41.09,698224,agente interno,software desatualizado,rede privada virtual,21
+índia,2017,fraude por e-mail,tecnologia da informação,93.62,899005,agente interno,senhas fracas,detecção baseada em IA,61
+frança,2021,interceptação,educação,20.57,119348,estado-nação,software desatualizado,firewall,48
+frança,2020,ataque de negação de serviço,tecnologia da informação,63.87,821848,agente interno,software desatualizado,firewall,60
+frança,2019,injeção de SQL,varejo,3.87,755230,agente interno,senhas fracas,detecção baseada em IA,31
+austrália,2019,interceptação,varejo,60.04,366318,estado-nação,software desatualizado,rede privada virtual,35
+austrália,2022,ataque de negação de serviço,educação,92.06,721334,agente interno,engenharia social,rede privada virtual,31
+reino unido,2016,sequestro de dados,varejo,59.44,964115,estado-nação,software desatualizado,firewall,48
+brasil,2023,interceptação,educação,27.58,171936,grupo hacker,senhas fracas,rede privada virtual,70
+brasil,2022,ataque de negação de serviço,telecomunicações,79.5,789067,grupo hacker,software desatualizado,firewall,63
+reino unido,2022,ataque de negação de serviço,tecnologia da informação,93.96,446331,estado-nação,software desatualizado,detecção baseada em IA,17
+alemanha,2017,ataque de negação de serviço,telecomunicações,84.38,724629,agente interno,software desatualizado,detecção baseada em IA,18
+frança,2023,sequestro de dados,educação,54.26,21699,agente interno,senhas fracas,detecção baseada em IA,32
+china,2023,ataque de negação de serviço,saúde,92.58,974261,grupo hacker,engenharia social,firewall,20
+frança,2021,sequestro de dados,varejo,76.83,189999,grupo hacker,engenharia social,rede privada virtual,57
+reino unido,2023,injeção de SQL,telecomunicações,78.9,716114,agente interno,senhas fracas,firewall,63
+frança,2018,sequestro de dados,educação,32.5,414904,estado-nação,software desatualizado,rede privada virtual,53
+índia,2016,interceptação,telecomunicações,42.88,934333,agente interno,software desatualizado,firewall,60
+reino unido,2020,interceptação,telecomunicações,59.32,848419,agente interno,software desatualizado,rede privada virtual,27
+frança,2020,sequestro de dados,educação,47.32,848222,agente interno,software desatualizado,rede privada virtual,16
+índia,2017,interceptação,telecomunicações,32.4,437554,agente interno,senhas fracas,firewall,19
+alemanha,2020,injeção de SQL,saúde,62.61,205015,estado-nação,software desatualizado,detecção baseada em IA,57
+rússia,2024,ataque de negação de serviço,educação,54.4,891298,agente interno,engenharia social,detecção baseada em IA,60
+reino unido,2019,interceptação,educação,29.92,937987,grupo hacker,senhas fracas,rede privada virtual,45
+índia,2023,sequestro de dados,educação,9.32,182887,grupo hacker,software desatualizado,firewall,51
+frança,2017,interceptação,saúde,34.43,927694,agente interno,engenharia social,rede privada virtual,43
+china,2018,interceptação,saúde,11.74,430760,estado-nação,software desatualizado,firewall,63
+china,2020,ataque de negação de serviço,saúde,6.32,682445,estado-nação,engenharia social,firewall,20
+índia,2023,interceptação,tecnologia da informação,90.85,985267,grupo hacker,software desatualizado,firewall,48
+frança,2024,fraude por e-mail,varejo,44.98,827399,estado-nação,senhas fracas,detecção baseada em IA,25
+alemanha,2015,sequestro de dados,tecnologia da informação,51.11,506625,agente interno,senhas fracas,rede privada virtual,41
+rússia,2024,ataque de negação de serviço,educação,26.82,156823,grupo hacker,engenharia social,rede privada virtual,1
+alemanha,2021,sequestro de dados,educação,11.42,55683,grupo hacker,software desatualizado,detecção baseada em IA,19
+austrália,2023,fraude por e-mail,educação,81.81,16360,estado-nação,software desatualizado,detecção baseada em IA,37
+rússia,2023,injeção de SQL,tecnologia da informação,52.35,743325,agente interno,senhas fracas,rede privada virtual,9
+china,2024,sequestro de dados,saúde,42.26,685837,agente interno,engenharia social,rede privada virtual,68
+china,2020,injeção de SQL,telecomunicações,70.02,688312,estado-nação,software desatualizado,rede privada virtual,48
+austrália,2022,injeção de SQL,telecomunicações,56.2,571454,agente interno,senhas fracas,rede privada virtual,42
+reino unido,2021,ataque de negação de serviço,tecnologia da informação,70.49,530341,agente interno,engenharia social,rede privada virtual,40
+índia,2023,ataque de negação de serviço,saúde,2.27,438318,grupo hacker,software desatualizado,detecção baseada em IA,39
+índia,2018,ataque de negação de serviço,educação,1.71,63389,agente interno,software desatualizado,rede privada virtual,20
+austrália,2019,interceptação,varejo,15.21,677755,grupo hacker,engenharia social,firewall,52
+brasil,2015,fraude por e-mail,saúde,84.83,794914,agente interno,engenharia social,firewall,34
+brasil,2019,ataque de negação de serviço,telecomunicações,36.98,198563,grupo hacker,engenharia social,firewall,24
+alemanha,2022,ataque de negação de serviço,varejo,21.45,32346,estado-nação,software desatualizado,detecção baseada em IA,38
+rússia,2024,fraude por e-mail,telecomunicações,21.22,446028,grupo hacker,senhas fracas,rede privada virtual,37
+brasil,2017,fraude por e-mail,varejo,3.18,520654,estado-nação,engenharia social,rede privada virtual,53
+reino unido,2023,ataque de negação de serviço,telecomunicações,81.91,397687,grupo hacker,engenharia social,rede privada virtual,65
+brasil,2017,ataque de negação de serviço,telecomunicações,34.79,724790,grupo hacker,software desatualizado,firewall,64
+reino unido,2022,ataque de negação de serviço,telecomunicações,50.9,645154,agente interno,senhas fracas,detecção baseada em IA,16
+rússia,2015,ataque de negação de serviço,telecomunicações,83.28,236346,agente interno,software desatualizado,detecção baseada em IA,55
+brasil,2018,injeção de SQL,varejo,36.63,829742,agente interno,software desatualizado,firewall,57
+reino unido,2019,injeção de SQL,saúde,65.47,263110,agente interno,engenharia social,firewall,6
+brasil,2021,injeção de SQL,varejo,1.32,564277,estado-nação,senhas fracas,firewall,1
+austrália,2017,interceptação,varejo,47.97,36780,agente interno,software desatualizado,detecção baseada em IA,64
+alemanha,2021,sequestro de dados,varejo,46.82,589744,estado-nação,senhas fracas,rede privada virtual,32
+china,2024,interceptação,telecomunicações,53.59,4913,grupo hacker,senhas fracas,detecção baseada em IA,61
+reino unido,2020,ataque de negação de serviço,varejo,70.03,971464,estado-nação,senhas fracas,firewall,4
+índia,2015,interceptação,tecnologia da informação,76.97,224983,estado-nação,senhas fracas,detecção baseada em IA,42
+rússia,2024,sequestro de dados,telecomunicações,35.62,236676,estado-nação,engenharia social,detecção baseada em IA,67
+rússia,2018,injeção de SQL,telecomunicações,11.32,153618,estado-nação,senhas fracas,rede privada virtual,29
+china,2023,injeção de SQL,telecomunicações,66.92,336320,grupo hacker,engenharia social,rede privada virtual,51
+frança,2023,fraude por e-mail,tecnologia da informação,15.49,138639,grupo hacker,software desatualizado,rede privada virtual,14
+austrália,2015,fraude por e-mail,telecomunicações,89.41,488342,grupo hacker,software desatualizado,firewall,23
+frança,2019,fraude por e-mail,tecnologia da informação,55.31,526220,estado-nação,engenharia social,detecção baseada em IA,2
+brasil,2024,ataque de negação de serviço,varejo,25.17,658226,agente interno,senhas fracas,rede privada virtual,52
+brasil,2022,interceptação,educação,91.69,581034,agente interno,engenharia social,rede privada virtual,67
+brasil,2024,fraude por e-mail,tecnologia da informação,28.78,793783,agente interno,engenharia social,firewall,17
+frança,2022,sequestro de dados,saúde,40.36,439046,agente interno,engenharia social,rede privada virtual,42
+austrália,2023,injeção de SQL,telecomunicações,20.95,341111,agente interno,senhas fracas,rede privada virtual,14
+alemanha,2021,interceptação,tecnologia da informação,90.57,254634,grupo hacker,engenharia social,detecção baseada em IA,5
+brasil,2016,ataque de negação de serviço,tecnologia da informação,13.52,535205,grupo hacker,engenharia social,detecção baseada em IA,53
+rússia,2017,ataque de negação de serviço,educação,50.42,690010,estado-nação,senhas fracas,firewall,18
+alemanha,2023,interceptação,varejo,23.28,651963,agente interno,software desatualizado,detecção baseada em IA,53
+reino unido,2016,fraude por e-mail,varejo,85.89,714670,grupo hacker,senhas fracas,rede privada virtual,32
+china,2016,interceptação,varejo,82.52,217938,estado-nação,senhas fracas,rede privada virtual,69
+índia,2023,interceptação,varejo,95.66,424762,agente interno,software desatualizado,rede privada virtual,10
+rússia,2017,fraude por e-mail,educação,66.25,702883,agente interno,software desatualizado,rede privada virtual,31
+alemanha,2016,sequestro de dados,educação,24.4,908906,grupo hacker,senhas fracas,detecção baseada em IA,46
+rússia,2021,interceptação,saúde,28.34,446741,estado-nação,senhas fracas,firewall,20
+índia,2023,fraude por e-mail,educação,9.95,317488,agente interno,engenharia social,rede privada virtual,46
+frança,2024,injeção de SQL,saúde,5.7,400840,agente interno,engenharia social,rede privada virtual,57
+brasil,2021,ataque de negação de serviço,varejo,89.79,454088,grupo hacker,engenharia social,rede privada virtual,70
+reino unido,2015,fraude por e-mail,varejo,77.58,270326,estado-nação,engenharia social,firewall,24
+alemanha,2016,injeção de SQL,educação,61.78,387500,estado-nação,senhas fracas,detecção baseada em IA,30
+rússia,2023,injeção de SQL,educação,0.98,623106,estado-nação,senhas fracas,firewall,43
+china,2016,ataque de negação de serviço,educação,89.08,210433,agente interno,senhas fracas,detecção baseada em IA,63
+frança,2020,sequestro de dados,tecnologia da informação,21.11,568832,estado-nação,engenharia social,firewall,12
+alemanha,2019,fraude por e-mail,educação,90.91,112635,agente interno,senhas fracas,firewall,55
+alemanha,2022,injeção de SQL,tecnologia da informação,58.35,730850,grupo hacker,senhas fracas,detecção baseada em IA,27
+austrália,2018,injeção de SQL,tecnologia da informação,65.08,417807,agente interno,engenharia social,firewall,46
+china,2015,sequestro de dados,tecnologia da informação,86.82,748040,agente interno,senhas fracas,firewall,18
+brasil,2018,sequestro de dados,saúde,4.51,909979,estado-nação,engenharia social,rede privada virtual,65
+reino unido,2019,fraude por e-mail,telecomunicações,33.85,60183,estado-nação,software desatualizado,detecção baseada em IA,17
+china,2018,injeção de SQL,saúde,76.4,966102,grupo hacker,engenharia social,firewall,1
+austrália,2017,ataque de negação de serviço,educação,31.74,724207,grupo hacker,senhas fracas,firewall,54
+alemanha,2018,injeção de SQL,saúde,78.11,451780,grupo hacker,software desatualizado,rede privada virtual,28
+reino unido,2016,fraude por e-mail,varejo,37.29,761252,agente interno,senhas fracas,rede privada virtual,57
+alemanha,2016,ataque de negação de serviço,telecomunicações,14.28,547178,agente interno,engenharia social,firewall,45
+china,2022,ataque de negação de serviço,tecnologia da informação,88.61,777010,grupo hacker,senhas fracas,rede privada virtual,34
+rússia,2020,ataque de negação de serviço,saúde,6.37,82576,estado-nação,senhas fracas,rede privada virtual,40
+austrália,2024,fraude por e-mail,educação,74.75,109907,agente interno,engenharia social,rede privada virtual,5
+alemanha,2017,ataque de negação de serviço,telecomunicações,40.05,27446,agente interno,engenharia social,detecção baseada em IA,13
+frança,2019,ataque de negação de serviço,telecomunicações,85.65,835349,estado-nação,software desatualizado,rede privada virtual,8
+reino unido,2019,interceptação,tecnologia da informação,35.37,384185,agente interno,senhas fracas,firewall,71
+austrália,2016,fraude por e-mail,educação,98.72,6670,estado-nação,engenharia social,rede privada virtual,24
+china,2021,sequestro de dados,telecomunicações,44.84,16106,estado-nação,senhas fracas,firewall,29
+rússia,2015,sequestro de dados,telecomunicações,64.68,716832,grupo hacker,engenharia social,rede privada virtual,67
+índia,2023,ataque de negação de serviço,varejo,26.01,274512,agente interno,senhas fracas,detecção baseada em IA,69
+china,2021,ataque de negação de serviço,telecomunicações,84.09,954379,agente interno,engenharia social,rede privada virtual,59
+rússia,2024,interceptação,educação,72.02,191361,grupo hacker,software desatualizado,detecção baseada em IA,11
+frança,2023,sequestro de dados,tecnologia da informação,87.45,296050,agente interno,senhas fracas,rede privada virtual,30
+rússia,2022,injeção de SQL,varejo,6.61,351048,agente interno,software desatualizado,rede privada virtual,57
+reino unido,2017,injeção de SQL,varejo,47.99,914365,agente interno,senhas fracas,firewall,52
+reino unido,2017,fraude por e-mail,tecnologia da informação,57.17,477292,estado-nação,engenharia social,detecção baseada em IA,18
+austrália,2016,sequestro de dados,telecomunicações,27.17,429456,grupo hacker,engenharia social,rede privada virtual,28
+austrália,2024,ataque de negação de serviço,tecnologia da informação,57.81,179507,agente interno,senhas fracas,rede privada virtual,8
+rússia,2018,injeção de SQL,educação,40.59,598151,estado-nação,software desatualizado,detecção baseada em IA,34
+alemanha,2024,interceptação,varejo,46.41,494622,grupo hacker,engenharia social,rede privada virtual,37
+índia,2021,injeção de SQL,saúde,2.3,942089,agente interno,software desatualizado,rede privada virtual,39
+brasil,2017,interceptação,educação,67.55,287646,estado-nação,engenharia social,rede privada virtual,68
+brasil,2020,injeção de SQL,educação,62.72,827349,estado-nação,software desatualizado,rede privada virtual,68
+china,2017,fraude por e-mail,educação,16.82,848597,grupo hacker,senhas fracas,detecção baseada em IA,11
+rússia,2022,fraude por e-mail,educação,33.49,68371,estado-nação,software desatualizado,firewall,57
+china,2023,sequestro de dados,saúde,62.21,534686,agente interno,software desatualizado,detecção baseada em IA,44
+rússia,2018,fraude por e-mail,telecomunicações,39.15,814119,grupo hacker,senhas fracas,firewall,64
+índia,2018,injeção de SQL,educação,12.44,599905,estado-nação,engenharia social,rede privada virtual,13
+china,2022,sequestro de dados,saúde,71.36,712697,agente interno,software desatualizado,detecção baseada em IA,39
+reino unido,2017,sequestro de dados,saúde,55.45,490818,grupo hacker,software desatualizado,rede privada virtual,65
+frança,2019,sequestro de dados,educação,2.27,63872,estado-nação,software desatualizado,firewall,55
+frança,2022,sequestro de dados,educação,59.0,131307,grupo hacker,senhas fracas,detecção baseada em IA,46
+austrália,2018,ataque de negação de serviço,telecomunicações,25.07,732072,grupo hacker,engenharia social,firewall,35
+rússia,2019,injeção de SQL,saúde,92.69,979308,estado-nação,engenharia social,firewall,10
+frança,2024,injeção de SQL,saúde,31.91,931787,grupo hacker,software desatualizado,firewall,15
+alemanha,2017,ataque de negação de serviço,educação,98.61,992029,estado-nação,software desatualizado,rede privada virtual,26
+austrália,2016,ataque de negação de serviço,educação,93.39,630087,estado-nação,engenharia social,rede privada virtual,72
+alemanha,2023,sequestro de dados,varejo,89.71,919427,estado-nação,senhas fracas,detecção baseada em IA,51
+rússia,2020,sequestro de dados,tecnologia da informação,36.9,809153,estado-nação,engenharia social,detecção baseada em IA,48
+china,2021,fraude por e-mail,telecomunicações,76.26,756305,estado-nação,senhas fracas,rede privada virtual,45
+brasil,2016,interceptação,educação,19.59,647998,agente interno,senhas fracas,detecção baseada em IA,38
+frança,2017,fraude por e-mail,saúde,4.87,388325,estado-nação,engenharia social,detecção baseada em IA,39
+rússia,2018,ataque de negação de serviço,varejo,64.39,359124,agente interno,software desatualizado,detecção baseada em IA,13
+alemanha,2017,interceptação,saúde,97.14,875912,agente interno,software desatualizado,firewall,33
+brasil,2021,sequestro de dados,educação,18.11,849791,estado-nação,software desatualizado,rede privada virtual,53
+alemanha,2017,injeção de SQL,educação,54.98,786577,agente interno,software desatualizado,firewall,70
+brasil,2017,injeção de SQL,tecnologia da informação,32.97,734737,estado-nação,senhas fracas,detecção baseada em IA,30
+reino unido,2022,injeção de SQL,tecnologia da informação,32.17,379954,agente interno,software desatualizado,firewall,9
